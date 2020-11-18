@@ -1,4 +1,4 @@
-const fireCanvas = document.getElementById('fireCanvas');
+const fireCanvas = document.getElementById('fireCanvas');//gdfhf
 const fireTable = document.getElementById('fireTable');
 const context = fireCanvas.getContext('2d');
 
